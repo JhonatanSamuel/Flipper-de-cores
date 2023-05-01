@@ -15,3 +15,7 @@
 <br>
 <br>
 <h4>  </h4>
+<img src="https://github.com/JhonatanSamuel/Flipper-de-cores/blob/master/img/img1.jpg?raw=true"
+
+<p> Para mobile </p>
+<img src=""
