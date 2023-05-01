@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <br>
 <br>
-<h4>  </h4>
+<p> Imagem do projéto </p>
 <img src="https://github.com/JhonatanSamuel/Flipper-de-cores/blob/master/img/img1.jpg?raw=true"
 
 <p> Para mobile </p>
-<img src=""
+<img src="https://github.com/JhonatanSamuel/Flipper-de-cores/blob/master/img/img%202.jpg?raw=true"
