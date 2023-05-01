@@ -15,7 +15,7 @@
 <br>
 <br>
 <p> Imagem do projéto </p>
-<img src="https://github.com/JhonatanSamuel/Flipper-de-cores/blob/master/img/img1.jpg?raw=true"
+<img src="https://github.com/JhonatanSamuel/Flipper-de-cores/blob/master/img/img1.jpg?raw=true">
 
 <p> Para mobile </p>
-<img src="https://github.com/JhonatanSamuel/Flipper-de-cores/blob/master/img/img%202.jpg?raw=true"
+<img src="https://github.com/JhonatanSamuel/Flipper-de-cores/blob/master/img/img%202.jpg?raw=true">
