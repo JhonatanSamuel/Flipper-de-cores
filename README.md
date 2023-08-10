@@ -1,5 +1,7 @@
 <h2>Projeto de Color Flipper, ao clicar no botão as cores trocam e mostra qual o código hexadecimal.</h2>
 <br>
+<a href="https://troca-cores-color.netlify.app/">Acessar a página</a>
+
 <br>
 <h1>Color Flipper</h1>
 <br>
